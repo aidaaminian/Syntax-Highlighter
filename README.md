@@ -44,4 +44,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 [issues-shield]: https://img.shields.io/github/issues/aidaaminian/Syntax-Highlighter.svg?style=for-the-badge
 [issues-url]: https://github.com/aidaaminian/Syntax-Highlighter/issues
 [license-shield]: https://img.shields.io/github/license/aidaaminian/Syntax-Highlighter.svg?style=for-the-badge
-[license-url]: https://github.com/aidaaminian/Syntax-Highlighter/blob/master/LICENSE.txt
+[license-url]: https://github.com/aidaaminian/Syntax-Highlighter/blob/main/LICENSE
